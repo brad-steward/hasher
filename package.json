@@ -1,0 +1,27 @@
+{
+  "name": "hasher",
+  "version": "0.0.1",
+  "description": "A tool to write simple dungeons in simple markup and have them generated.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brad-steward/hasher.git"
+  },
+  "keywords": [
+    "node",
+    "ttrpg",
+    "yaml",
+    "json",
+    "canvas",
+    "for-fun"
+  ],
+  "author": "@brad-steward",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brad-steward/hasher/issues"
+  },
+  "homepage": "https://github.com/brad-steward/hasher#readme"
+}
